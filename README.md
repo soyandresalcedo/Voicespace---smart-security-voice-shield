@@ -1,6 +1,6 @@
 # Vospace
 
-We created a Smart Security Voice Shield app based on Flutterflow.
+We created a Smart Comunity Voice Shield app based on Flutterflow.
 
 FIGMA REPOSITORY: https://www.figma.com/file/61IsurOtWKphlc0ayXWoTZ/Hackathon?node-id=0%3A1
 FLUTTER FLOW REPOSITORY: https://app.flutterflow.io/project/vospace-lstj1k
